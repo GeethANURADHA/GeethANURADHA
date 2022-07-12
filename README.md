@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeethANURADHA](https://github.com/GeethANURADHA)
+- 👨‍💻 All of my projects are available at [MY github](https://github.com/GeethANURADHA)
 
 - 📫 How to reach me **geethanuradha9@gmail.com**
 
