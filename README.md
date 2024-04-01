@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/geethanuradha">GitHub</a>
 
 - 📫 How to reach me **geethanu1999@gmail.com**
 
