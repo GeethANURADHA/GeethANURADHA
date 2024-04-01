@@ -22,8 +22,9 @@
   <a href="https://www.facebook.com/geeth.anuradha.319" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/geeth__anuradha?igsh=MXFmN3FiNnl4c3pjaw==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/geeth_anuradha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://geethanuradha.github.io/" target="_blank">Visit my Website</a>
+  <a href="https://geethanuradha.github.io/" target="_blank"><img align="center" src="https://example.com/your-website-icon.svg" alt="Website" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
