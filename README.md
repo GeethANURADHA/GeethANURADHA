@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available on <a href="https://github.com/geethanuradha">GitHub</a>
 
-- 📫 How to reach me **geethanu1999@gmail.com**
+- 📫 How to reach me **geethanuradha.it@gmail.com**
 
 - ⚡ Fun fact : **I love Fitness🤸‍♂ / Hiking🧗‍♂️ / and Discovery🌍**
 
