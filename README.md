@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Geeth Anuradha</h1>
-<h3 align="center">I'm a IT Undergraduate</h3>
+<h3 align="center">I'm a Software Engineer passionate about Cloud and DevOps</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="geethanuradha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Spring Boot**
+- 🚀 Interests:
+- Software Engineering 💻
+- DevOps & Cloud Engineering ☁️
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
