@@ -56,7 +56,6 @@ I am a passionate **Software Engineer** dedicated to building scalable applicati
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethanuradha&layout=compact&theme=tokyonight" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethanuradha&theme=tokyonight" alt="streak stats" />
 </div>
