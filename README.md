@@ -1,72 +1,75 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Geeth%20Anuradha&fontSize=70&animation=fadeIn" />
-  
-  <h3>🚀 Software Engineer | Cloud & DevOps Enthusiast</h3>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/geeth-anuradha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:geethanuradha.it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Geeth Anuradha</h1>
+<h3 align="center">Software Engineer | Cloud & DevOps Enthusiast ☁️🚀</h3>
 
----
+<img align="right" alt="coding" width="380" 
+src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"/>
 
-### 💫 About Me
-
-<img align="right" alt="coding" width="350" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
-
-I am a passionate **Software Engineer** dedicated to building scalable applications and streamlining deployment pipelines. My heart lies in the intersection of code and infrastructure.
-
-- 🔭 **Current Focus:** Deep diving into Kubernetes and Advanced Cloud Architecture.
-- 👯 **Collaboration:** Open for Open Source projects related to DevOps tooling.
-- 👨‍💻 **Portfolio:** Explore my work at [geethanuradha.github.io](https://geethanuradha.github.io/)
-- ⚡ **Fun Fact:** When I'm not debugging, you'll find me **Fitness 🤸‍♂️**, **Hiking 🧗‍♂️** or exploring new territories **🌍**.
-- 📫 **Reach me:** geethanuradha.it@gmail.com
-
-<br>
-
----
-
-### 🛠️ Tech Stack & Specialized Tools
-
-#### 🌐 Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,php,javascript,kotlin,html,css" />
-</p>
-
-#### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,firebase" />
-</p>
-
-#### 🧰 Frameworks & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,mysql,mongodb,androidstudio,unity" />
-</p>
-
-#### 🎨 Design & Creative
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,blender" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=geethanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="geethanuradha" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 About Me
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geethanuradha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethanuradha&layout=compact&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethanuradha&theme=tokyonight" alt="streak stats" />
-</div>
+- 💻 Software Engineer passionate about building scalable and reliable systems  
+- ☁️ Strong interest in **Cloud Engineering & DevOps**  
+- 🔄 Enthusiastic about Automation, CI/CD & Infrastructure as Code  
+- 👯 Open to collaborating on **Open Source Projects**  
+- 🌱 Currently expanding my knowledge in Cloud & DevOps technologies  
+- 📫 Reach me at: **geethanuradha.it@gmail.com**  
+- ⚡ Fun Fact: I love Fitness 🤸‍♂️ | Hiking 🧗‍♂️ | Discovery 🌍  
 
 ---
 
-### 🛠️ My DevOps Workflow
-```mermaid
-graph LR
-  A[💻 Code] --> B(📝 Commit)
-  B --> C{⚙️ CI/CD}
-  C -->|Pass| D[🚀 Deploy to Cloud]
-  C -->|Fail| A
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/geeth-anuradha/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/geeth.anuradha.319" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/geeth__anuradha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/geeth_anuradha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://geethanuradha.github.io/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming
+C | C++ | C# | Java | Python | JavaScript | PHP | Kotlin  
+
+#### 🌐 Frontend & UI
+HTML | CSS | Bootstrap | Figma  
+
+#### 🗄️ Databases
+MySQL | MS SQL Server | Firebase  
+
+#### 🔧 Tools & Platforms
+Git | Android | Unity | Blender | Adobe XD | Illustrator | Photoshop  
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethanuradha&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geethanuradha&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethanuradha" />
+</p>
