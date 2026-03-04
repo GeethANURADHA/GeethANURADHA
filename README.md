@@ -1,75 +1,58 @@
-<h1 align="center">Hi 👋, I'm Geeth Anuradha</h1>
-<h3 align="center">Software Engineer | Cloud & DevOps Enthusiast ☁️🚀</h3>
+<h1 align="center">Geeth Anuradha</h1>
+<p align="center">
+  Software Engineer | Cloud & DevOps Engineer
+</p>
 
-<img align="right" alt="coding" width="380" 
-src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=geethanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="geethanuradha" />
+<p align="center">
+  <a href="https://linkedin.com/in/geeth-anuradha/">LinkedIn</a> •
+  <a href="https://github.com/geethanuradha">GitHub</a> •
+  <a href="https://geethanuradha.github.io/">Portfolio</a> •
+  <a href="mailto:geethanuradha.it@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
+## Professional Summary
 
-- 💻 Software Engineer passionate about building scalable and reliable systems  
-- ☁️ Strong interest in **Cloud Engineering & DevOps**  
-- 🔄 Enthusiastic about Automation, CI/CD & Infrastructure as Code  
-- 👯 Open to collaborating on **Open Source Projects**  
-- 🌱 Currently expanding my knowledge in Cloud & DevOps technologies  
-- 📫 Reach me at: **geethanuradha.it@gmail.com**  
-- ⚡ Fun Fact: I love Fitness 🤸‍♂️ | Hiking 🧗‍♂️ | Discovery 🌍  
+Cloud-focused Software Engineer with strong interest in DevOps, automation, and scalable system architecture.  
+Experienced in CI/CD pipelines, infrastructure automation, cloud environments, and application deployment.
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/geeth-anuradha/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/geeth.anuradha.319" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/geeth__anuradha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/geeth_anuradha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://geethanuradha.github.io/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="30" />
-  </a>
-</p>
+Actively seeking opportunities in:
+- Cloud Engineering
+- DevOps Engineering
+- Site Reliability Engineering (SRE)
+- Platform Engineering
 
 ---
 
-### 🛠️ Tech Stack
+## Core Competencies
 
-#### 💻 Programming
-C | C++ | C# | Java | Python | JavaScript | PHP | Kotlin  
+**Cloud & Infrastructure**
+AWS • Azure • Google Cloud • Kubernetes • Docker • Terraform • GitHub Actions
 
-#### 🌐 Frontend & UI
-HTML | CSS | Bootstrap | Figma  
+**Programming & Scripting**
+Java • Python • JavaScript • Bash
 
-#### 🗄️ Databases
-MySQL | MS SQL Server | Firebase  
+**Databases**
+MySQL • MongoDB • MS SQL Server
 
-#### 🔧 Tools & Platforms
-Git | Android | Unity | Blender | Adobe XD | Illustrator | Photoshop  
+**Practices**
+CI/CD • Infrastructure as Code (IaC) • Monitoring • Automation • Agile
 
 ---
 
-### 📊 GitHub Stats
+## What I Bring
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethanuradha&show_icons=true&locale=en&layout=compact" />
-</p>
+- Strong problem-solving mindset
+- Focus on reliability and performance
+- Passion for automation and system optimization
+- Continuous learner with global career ambitions
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geethanuradha&show_icons=true&locale=en" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethanuradha" />
+## GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=geethanuradha&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethanuradha&layout=compact&hide_border=true" />
 </p>
