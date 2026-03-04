@@ -13,12 +13,18 @@
 ---
 
 ### 💫 About Me
+
+<img align="right" alt="coding" width="350" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+
 I am a passionate **Software Engineer** dedicated to building scalable applications and streamlining deployment pipelines. My heart lies in the intersection of code and infrastructure.
 
 - 🔭 **Current Focus:** Deep diving into Kubernetes and Advanced Cloud Architecture.
 - 👯 **Collaboration:** Open for Open Source projects related to DevOps tooling.
 - 👨‍💻 **Portfolio:** Explore my work at [geethanuradha.github.io](https://geethanuradha.github.io/)
-- ⚡ **Fun Fact:** When I'm not debugging, you'll find me **Hiking 🧗‍♂️** or exploring new territories **🌍**.
+- ⚡ **Fun Fact:** When I'm not debugging, you'll find me **Fitness 🤸‍♂️**, **Hiking 🧗‍♂️** or exploring new territories **🌍**.
+- 📫 **Reach me:** geethanuradha.it@gmail.com
+
+<br>
 
 ---
 
@@ -29,7 +35,7 @@ I am a passionate **Software Engineer** dedicated to building scalable applicati
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,php,javascript,kotlin,html,css" />
 </p>
 
-#### ☁️ Cloud & Infrastructure (Core Interests)
+#### ☁️ Cloud & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,firebase" />
 </p>
@@ -49,26 +55,18 @@ I am a passionate **Software Engineer** dedicated to building scalable applicati
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geethanuradha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethanuradha&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geethanuradha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethanuradha&layout=compact&theme=tokyonight" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethanuradha&theme=tokyonight" alt="streak stats" />
 </div>
 
 ---
 
-### 🛠️ Daily Workflow
+### 🛠️ My DevOps Workflow
 ```mermaid
 graph LR
-  A[Code] --> B(Push to Git)
-  B --> C{CI/CD Pipeline}
-  C -->|Success| D[Deploy to Cloud]
-  C -->|Failure| A
+  A[💻 Code] --> B(📝 Commit)
+  B --> C{⚙️ CI/CD}
+  C -->|Pass| D[🚀 Deploy to Cloud]
+  C -->|Fail| A
